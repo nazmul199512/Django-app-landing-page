@@ -1,6 +1,6 @@
 # Django-app-landing-page
-Django powered bootstrap4 landing page.
-
+### Django powered bootstrap4 landing page.
+## Screen shots
 ![](screen_shots/image1.PNG)
 ![](screen_shots/image2.PNG)
 ![](screen_shots/image3.PNG)
