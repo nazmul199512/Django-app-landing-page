@@ -10,7 +10,7 @@
  ```
  #### Import project in virtualenv
  ```bash
- git clone https://github.com/nazmul199512/Django_shopping_cart.git
+ git clone https://github.com/nazmul199512/Django-app-landing-page.git
  ```
  
 #### Install all  requirements 
